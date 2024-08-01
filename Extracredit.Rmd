@@ -1,0 +1,11 @@
+---
+title: "Extra credit prime code"
+author: "Mairani G"
+output: 
+  html_document:
+    number_sections: true
+    toc: true
+    toc_depth: 5
+date: "7/31/24" 
+---
+
